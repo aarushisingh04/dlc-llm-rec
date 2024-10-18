@@ -1,4 +1,5 @@
 # dlc-llm-rec
 
-* handle diversity in recommender systems powered by llms
-* incorporate user centered diversity constraints while ensuring personalized recommendations
+copy of https://anonymous.4open.science/r/DLCRec-5DFF/README.md
+
+all right belong to https://anonymous.4open.science/r/DLCRec-5DFF/README.md
